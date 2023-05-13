@@ -3,7 +3,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 
 # Replace YOUR_TOKEN_HERE with your Telegram bot token
-TOKEN = 'YOUR_TOKEN_HERE'
+TOKEN = '195254263:AAGWjmvtzC0_uUDfcNF0h0LETb1NeGeMC4c'
 
 # Set the time range for reminders (8:30 to 22:30)
 start_time = datetime.time(8, 30)
